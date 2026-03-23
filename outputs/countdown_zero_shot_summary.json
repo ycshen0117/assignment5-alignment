@@ -1,0 +1,9 @@
+{
+  "num_examples": 50,
+  "num_both_1": 0,
+  "num_format_1_answer_0": 12,
+  "num_format_0_answer_0": 36,
+  "avg_format_reward": 0.24,
+  "avg_answer_reward": 0.04,
+  "avg_reward": 0.04
+}
